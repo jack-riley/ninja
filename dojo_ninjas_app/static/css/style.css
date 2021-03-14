@@ -1,0 +1,148 @@
+.wrapper{
+    width: 950px;
+    min-height: 200px;
+    margin: auto;
+    background-color: lightgrey;
+}
+.upper{
+    width: 950px;
+    min-height: 100px;
+    margin: auto;
+    background-color: lightpink;
+}
+.box{
+    width: 400px;
+    min-height: 300px;
+    margin: 10px 30px;
+    padding: 5px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: lightsalmon;
+    text-align: center;
+
+}
+
+.h1{
+    text-align: center;
+}
+.box p{
+    display: block;
+    background-color: lightseagreen;
+    text-align: left;
+}
+.box p input{
+    width: 300px;
+}
+.box #state{
+    width: 25px;
+}
+.box #desc{
+    height: 100px;
+}
+
+.box button{
+    display: block;
+    background-color: lightgreen;
+}
+
+.lower{
+    width: 950px;
+    min-height: 100px;
+    margin: auto;
+    text-align: center;
+}
+.lower ul{
+    text-align: center;
+}
+
+.lower li{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#id{
+    width: 50px;
+    display: inline-block;
+
+}
+#age{
+    width: 50px;
+    display: inline-block;
+
+}
+.column h3{
+    text-align: left;
+    background-color: lightgray;
+
+
+}
+.column ul{
+    text-align: left;
+    background-color:lightgray;
+    text-decoration: none;
+    padding: 5px;
+
+}
+.column li{
+    list-style-type: none;
+    background-color: lightgray;
+}
+.column li:nth-child(odd){
+    background-color: white;
+}
+
+.input{
+    width: 700px;
+    min-height: 100px;
+    background-color: lightgray;
+    margin: auto;
+    padding: 5px;
+    
+}
+
+.input p{
+    display: inline-block;
+    margin: 15px;
+    width: 140px;
+
+
+} 
+
+.input button{
+    display: block;
+    margin: 5px 330px;
+}
